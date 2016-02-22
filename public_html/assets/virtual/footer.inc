@@ -1,0 +1,2 @@
+<p>This a site was created for educational project.</p>
+<p>certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use</p>
